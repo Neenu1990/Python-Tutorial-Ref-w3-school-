@@ -4,3 +4,4 @@ Topics covered:
       1. Matplotlib
       2. List
       3. Tuple
+      4. Dictionary
