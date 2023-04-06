@@ -3,5 +3,6 @@ This repository contains Jupiter notebook file and Pdf file of python Tutorial.(
 Topics covered:
       1. List
       2. Tuple
-      3. Dictionary
-      4. Matplotlib
+      3. Set 
+      4. Dictionary
+      5. Matplotlib
