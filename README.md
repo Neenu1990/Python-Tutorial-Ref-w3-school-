@@ -5,4 +5,5 @@ Topics covered:
       2. Tuple
       3. Set 
       4. Dictionary
-      5. Matplotlib
+      5. Pandas
+      6. Matplotlib
